@@ -4,11 +4,11 @@
 [一、机器学习](#机器学习)  
 &emsp;[机器学习书籍](#机器学习书籍)  
 &emsp;[机器学习课程](#机器学习课程)  
-[二、深度学习](#二、深度学习)  
+[二、深度学习](#深度学习)  
 &emsp;[深度学习书籍](#深度学习书籍)  
 &emsp;[深度学习课程](#深度学习课程)  
-[三、推荐系统入门](#三、推荐系统入门)  
-[四、推荐系统进阶](#四、推荐系统进阶)  
+[三、推荐系统入门](#推荐系统入门)  
+[四、推荐系统进阶](#推荐系统进阶)  
 &emsp;[会议](#会议)  
 &emsp;[期刊](#期刊)  
 &emsp;[数据集](#数据集)  
@@ -33,7 +33,7 @@
 林轩田机器学习技法：https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2  
 机器学习白板推导：[B站](https://www.bilibili.com/video/BV1aE411o7qd/)，[YouTube](https://www.youtube.com/watch?v=f474MY-5sw8&list=PLOxMGJ_8X74aGAJ2I_buAi6yV3XuTY61g)  
 
-## 二、深度学习
+## <span id="深度学习">二、深度学习
 
 ### 深度学习书籍
 [《深度学习》](https://github.com/MingchaoZhu/DeepLearning)  
@@ -51,7 +51,7 @@
 李宏毅机器学习：https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php  
 邱锡鹏神经网络与深度学习：https://space.bilibili.com/434832966/  
 
-## 三、推荐系统入门
+## <span id="推荐系统入门">三、推荐系统入门
 [《Recommender System Handbook》](https://book.douban.com/subject/26806263/)/[《推荐系统：技术、评估及高效算法》](https://book.douban.com/subject/26437066/)  
 这本书融合不同领域专家学者的理论成果和实践经验，从推荐系统相关技术、推荐系统的应用与评估、推荐系统的交互、推荐系统和社区及高级算法5个方面介绍推荐系统的主要概念、理论、方法、趋势、挑战和应用，详细阐释如何支持用户决策、计划和购买过程，帮助你梳理推荐系统的相关知识体系，并理解推荐系统的原理、算法及实现。  
 [《深度学习推荐系统》](https://book.douban.com/subject/35013197/)  
@@ -61,7 +61,7 @@
 [《推荐系统：前沿与实践》](https://book.douban.com/subject/35947222/)  
 这本书作者以一线研发人员的视角和经验，对推荐系统进行总结，尝试从原理与实践两个角度为读者剖析推荐系统。本书首先从原理上介绍各类经典推荐算法及前沿的深度学习推荐算法，然后分析推荐系统领域发展的前沿话题和未来方向，后结合微软的开源项目Microsoft Recommenders 介绍推荐系统的实践经验。  
 
-## 四、推荐系统进阶
+## <span id="推荐系统进阶">四、推荐系统进阶
 
 ### 会议
 
