@@ -197,7 +197,7 @@ The Web Conference 2023 (WWW’23)
 
 
 #### Cross-Domain Rec
-##### **GCN**
+##### GCN
 Cross-Domain Recommendation via Preference Propagation GraphNet  
 Zhao, Cheng and Li, Chenliang and Fu, Cong  
 ACM International Conference on Information and Knowledge Management (CIKM'19)  
