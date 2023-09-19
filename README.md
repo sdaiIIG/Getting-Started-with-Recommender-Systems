@@ -206,7 +206,7 @@ The Web Conference 2023 (WWW’23)
 #### Contrastive-based Rec
 ##### Multi-View
 Self-supervised Graph Learning for Recommendation  
-Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, and Xing Xie  
+Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, and Xing Xie
 ACM Conference on Research and Development in Information Retrieval (SIGIR'21)  
 
 Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation  
@@ -214,19 +214,19 @@ Junliang Yu, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung
 ACM Conference on Research and Development in Information Retrieval (SIGIR'22)  
 
 Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering  
-Changxin Tian， Yuexiang Xie， Yaliang Li， Nan Yang， Wayne Xin Zhao  
+Changxin Tian, Yuexiang Xie, Yaliang Li, Nan Yang, Wayne Xin Zhao  
 ACM Conference on Research and Development in Information Retrieval (SIGIR'22)  
 
 LIGHTGCL: SIMPLE YET EFFECTIVE GRAPH CONTRASTIVE LEARNING FOR RECOMMENDATION  
-Xuheng Cai， Chao Huang， Lianghao Xia， Xubin Ren  
+Xuheng Cai, Chao Huang, Lianghao Xia, Xubin Ren  
 International Conference on Learning Representations (ICLR'23)  
 
 Generative-Contrastive Graph Learning for Recommendation  
-Yonghui Yang， Zhengwei Wu， Le Wu， Kun Zhang，Richang Hong，Zhiqiang Zhang， Jun Zhou，Meng Wang  
+Yonghui Yang, Zhengwei Wu, Le Wu, Kun Zhang, Richang Hong, Zhiqiang Zhang, Jun Zhou, Meng Wang  
 ACM Conference on Research and Development in Information Retrieval (SIGIR'23)  
 
 Adaptive Graph Contrastive Learning for Recommendation  
-Yangqin Jiang， Chao Huang， Lianghao Xia  
+Yangqin Jiang, Chao Huan, Lianghao Xia  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23)  
 
 ##### Single-View
