@@ -195,13 +195,47 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 ##### 技术2
 ##### 技术3
 
-#### 多行为推荐
+#### Multi-behavior Rec
 ##### GCN
-Multi-behavior Recommendation with Cascading Graph Convolution Networks
-Zhiyong Cheng, Sai Han, Fan Liu, Lei Zhu, Zan Gao, Yuxin Peng
-The Web Conference 2023 (WWW’23)
-##### 技术2
-##### 技术3
+Multi-behavior Recommendation with Graph Convolutional Networks    
+Bowen Jin, Chen Gao, Xiangnan He, Depeng Jin, and Yong Li    
+ACM Conference on Research and Development in Information Retrieval (SIGIR'20)  
+
+Graph meta network for multi-behavior recommendation  
+Lianghao Xia, Yong Xu, Chao Huang, Peng Dai, and Liefeng Bo  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'21) 
+
+Multi-behavior enhanced recommendation with cross-interaction collaborative relation modeling  
+Xia, Lianghao and Huang, Chao and Xu, Yong and Dai, Peng and Lu, Mengyin and Bo, Liefeng  
+IEEE 37th International Conference on Data Engineering (ICDE'21)  
+
+Cascading Residual Graph Convolutional Network for Multi-Behavior Recommendation  
+Mingshi Yan^, Zhiyong Cheng*, Chen Gao, Jing Sun, Fan Liu, Fuming Sun, Haojie Li  
+ACM Transactions on Information Systems (TOIS'23)  
+
+Multi-behavior Recommendation with Cascading Graph Convolution Networks  
+Zhiyong Cheng, Sai Han, Fan Liu, Lei Zhu, Zan Gao, Yuxin Peng  
+The Web Conference 2023 (WWW'23)  
+
+##### Contrastive-Learning
+Self-supervised graph neural networks for multi-behavior recommendation    
+Shuyun Gu, Xiao Wang, Chuan Shi, and Ding Xiao   
+In International Joint Conference on Artificial Intelligence (IJCAI'22)  
+
+Contrastive meta learning with behavior multiplicity for recommendation  
+Wei Wei, Chao Huang, Lianghao Xia, Yong Xu, Jiashu Zhao, and Dawei Yin  
+ACM international conference on web search and data mining (WSDM'22)   
+
+Multi-behavior self-supervised learning for recommendation  
+Jingcao Xu, Chaokun Wang, Cheng Wu, Yang Song, Kai Zheng, Xiaowei Wang, Changping Wang, Guorui Zhou, and
+Kun Gai  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'23)  
+
+##### Deep-Learning
+Learning to recommend with multiple cascading behaviors  
+Gao, Chen and He, Xiangnan and Gan, Dahua and Chen, Xiangning and Feng, Fuli and Li, Yong and Chua, Tat-Seng and Yao, Lina and Song, Yang and Jin, Depeng  
+IEEE transactions on knowledge and data engineering (TKDE'19)   
+
 
 #### Contrastive-based Rec
 ##### Multi-View
