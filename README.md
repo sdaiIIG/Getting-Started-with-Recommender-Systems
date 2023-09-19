@@ -197,7 +197,7 @@ The Web Conference 2023 (WWW’23)
 
 
 #### Cross-Domain Rec
-##### GCN
+##### **GCN**
 Cross-Domain Recommendation via Preference Propagation GraphNet  
 Zhao, Cheng and Li, Chenliang and Fu, Cong  
 ACM International Conference on Information and Knowledge Management (CIKM'19)  
@@ -207,7 +207,7 @@ Liu, Meng and Li, Jianjun and Li, Guohui and Pan, Peng
 ACM International Conference on Information and Knowledge Management (CIKM'20)  
 
 ##### Meta-Learning
-Transfer-Meta Framework for Cross-domain Recommendation Cold-Start Users  
+Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users  
 Zhu, Yongchun and Ge, Kaikai and Zhuang, Fuzhen and Xie, Ruobing and Xi, Dongbo and Zhang, Xu and Lin, Leyu and He, Qing  
 ACM Conference on Research and Development in Information Retrieval (SIGIR'21)  
 
