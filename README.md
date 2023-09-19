@@ -206,7 +206,7 @@ The Web Conference 2023 (WWW’23)
 #### Contrastive-based Rec
 ##### Multi-View
 Self-supervised Graph Learning for Recommendation  
-Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, and Xing Xie
+Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, and Xing Xie  
 ACM Conference on Research and Development in Information Retrieval (SIGIR'21)  
 
 Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation  
