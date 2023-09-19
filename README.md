@@ -232,7 +232,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23)
 ##### Single-View
 Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning  
 Zihan Lin, Changxin Tian, Yupeng Hou, Wayne Xin Zhao  
-International World Wide Web Conference(WWW'22) 
+International World Wide Web Conference (WWW'22) 
 
 XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation  
 Junliang Yu, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung, Hongzhi Yin  
