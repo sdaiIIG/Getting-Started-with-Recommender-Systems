@@ -1,6 +1,6 @@
 # Getting Started with Recommender Systems
 
-目录  
+## 目录  
 [一、机器学习](#一、机器学习)  
 &emsp;[机器学习书籍](#机器学习书籍)  
 &emsp;[机器学习课程](#机器学习课程)  
