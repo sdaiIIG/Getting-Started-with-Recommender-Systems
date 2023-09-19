@@ -203,39 +203,40 @@ The Web Conference 2023 (WWW’23)
 ##### 技术2
 ##### 技术3
 
-#### 对比
+#### Contrastive-based Rec
 ##### Multi-View
 Self-supervised Graph Learning for Recommendation  
 Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, and Xing Xie
 ACM Conference on Research and Development in Information Retrieval (SIGIR'21)  
+
+Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation  
+Junliang Yu, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'22)  
+
+Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering  
+Changxin Tian， Yuexiang Xie， Yaliang Li， Nan Yang， Wayne Xin Zhao  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'22)  
+
+LIGHTGCL: SIMPLE YET EFFECTIVE GRAPH CONTRASTIVE LEARNING FOR RECOMMENDATION  
+Xuheng Cai， Chao Huang， Lianghao Xia， Xubin Ren  
+International Conference on Learning Representations (ICLR'23)  
+
+Generative-Contrastive Graph Learning for Recommendation  
+Yonghui Yang， Zhengwei Wu， Le Wu， Kun Zhang，Richang Hong，Zhiqiang Zhang， Jun Zhou，Meng Wang  
+ACM Conference on Research and Development in Information Retrieval (SIGIR'23)  
+
+Adaptive Graph Contrastive Learning for Recommendation  
+Yangqin Jiang， Chao Huang， Lianghao Xia  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23)  
+
 ##### Single-View
 Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning  
 Zihan Lin, Changxin Tian, Yupeng Hou, Wayne Xin Zhao  
 International World Wide Web Conference(WWW'22) 
-##### Multi-View
-Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation  
-Junliang Yu, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung  
-ACM Conference on Research and Development in Information Retrieval (SIGIR'22)  
-##### Single-View
+
 XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation  
 Junliang Yu, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung, Hongzhi Yin  
 IEEE Transactions on Knowledge and Data Engineering (TKDE'22)  
-##### Multi-View
-Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering  
-Changxin Tian， Yuexiang Xie， Yaliang Li， Nan Yang， Wayne Xin Zhao  
-ACM Conference on Research and Development in Information Retrieval (SIGIR'22)  
-##### Multi-View
-LIGHTGCL: SIMPLE YET EFFECTIVE GRAPH CONTRASTIVE LEARNING FOR RECOMMENDATION  
-Xuheng Cai， Chao Huang， Lianghao Xia， Xubin Ren  
-International Conference on Learning Representations (ICLR'23)  
-##### Multi-View
-Generative-Contrastive Graph Learning for Recommendation  
-Yonghui Yang， Zhengwei Wu， Le Wu， Kun Zhang，Richang Hong，Zhiqiang Zhang， Jun Zhou，Meng Wang  
-ACM Conference on Research and Development in Information Retrieval (SIGIR'23)  
-##### Multi-View
-Adaptive Graph Contrastive Learning for Recommendation  
-Yangqin Jiang， Chao Huang， Lianghao Xia  
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23)
 
 #### Cross-Domain Rec
 ##### GCN
