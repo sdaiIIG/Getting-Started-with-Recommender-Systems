@@ -182,7 +182,7 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 ##### 技术2
 ##### 技术3
 
-#### 多行为推荐
+#### Multi-Behavior Rec
 ##### GCN
 Multi-behavior Recommendation with Cascading Graph Convolution Networks
 Zhiyong Cheng, Sai Han, Fan Liu, Lei Zhu, Zan Gao, Yuxin Peng
@@ -190,7 +190,7 @@ The Web Conference 2023 (WWW’23)
 ##### 技术2
 ##### 技术3
 
-#### 对比
+#### Contrastive-based Rec
 ##### 技术1
 ##### 技术2
 ##### 技术3
