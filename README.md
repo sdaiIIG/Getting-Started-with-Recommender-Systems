@@ -185,13 +185,8 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 [**KuaiRec**](https://kuairec.com/)：一个几乎全是观测值的稠密数据集，真实世界的数据集，收集自视频分享手机应用快手的推荐日志。目前，它是第一个包含完全观察（用户-物品矩阵中几乎没有缺失值，即每个用户都看过每个视频，然后留下反馈）的用户-物品交互矩阵的数据集。KuaiRec数据集包含了1411个用户对3327个短视频的交互行为，稠密度高达99.6%（一般推荐系统公开数据集的稠密度在1%以下）。  
 
 ### 论文
-#### 多模态推荐
-##### 技术1
-##### 技术2
-##### 技术3
 
-#### Privacy-Preserving Rec
-[**Privacy-Preserving Rec**](https://github.com/sdaiIIG/Getting-Started-with-Recommender-Systems/blob/main/paper/Privacy-Preserving%20Rec.md)
+#### [**Privacy-Preserving Rec**](https://github.com/sdaiIIG/Getting-Started-with-Recommender-Systems/blob/main/paper/Privacy-Preserving%20Rec.md)
 
 #### Multi-behavior Rec
 ##### GCN
