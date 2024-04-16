@@ -191,8 +191,7 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 ##### 技术3
 
 #### Privacy-Preserving Rec
-[**Privacy-Preserving Rec**](./paper/Privacy-Preserving Rec.md)
-
+[**Privacy-Preserving Rec**](https://github.com/sdaiIIG/Getting-Started-with-Recommender-Systems/blob/main/paper/Privacy-Preserving%20Rec.md)
 
 #### Multi-behavior Rec
 ##### GCN
