@@ -1,4 +1,4 @@
-Differential Privacy
+#### Differential Privacy
 Privacy Enhanced Matrix Factorization for Recommendation with Local Differential Privacy
 Hyejin Shin, Sungwook Kim, Junbum Shin, Xiaokui Xiao
 IEEE Transactions on Knowledge and Data Engineering (TKDE'18)
@@ -9,7 +9,7 @@ arXiv preprint arXiv:2305.05973 (2023)
 
 
 
-Federated Rec
+#### Federated Rec
 Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System
 Muhammad Ammad-ud-din, Elena Ivannikova, Suleiman A. Khan, Were Oyomno, Qiang Fu, Kuan Eeik Tan, Adrian Flanagan
 arXiv preprint arXiv:1901.09888 (2019)
