@@ -186,6 +186,9 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 
 ### 论文
 
+
+#### [**Agent-based Rec**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/Agent-based%20RS.md)
+
 #### [**Privacy-Preserving Rec**](https://github.com/sdaiIIG/Getting-Started-with-Recommender-Systems/blob/main/paper/Privacy-Preserving%20Rec.md)
 
 #### [**Multi-behavior Rec**](https://github.com/sdaiIIG/Getting-Started-with-Recommender-Systems/blob/main/paper/Multi-behavior%20Rec.md)
@@ -193,5 +196,16 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 #### [**Contrastive-Learning**](https://github.com/sdaiIIG/Getting-Started-with-Recommender-Systems/blob/main/paper/Contrastive-Learning.md)
 
 #### [**Cross-Domain Rec**](https://github.com/sdaiIIG/Getting-Started-with-Recommender-Systems/blob/main/paper/Cross-Domain%20Rec.md)
+
+#### [**Multi-Modality Rec**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/Multi-Modality%20Rec.md)
+
+#### [**LLM-based Rec**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/LLM-based%20Rs.md)
+
+#### [**News Rec**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/News%20Rs.md)
+
+#### [**Review-based Rec**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/Review-based%20RS.md)
+
+
+
 
 
